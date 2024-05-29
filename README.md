@@ -6,6 +6,12 @@ OpenTofu v1.7.1,
 
 Proxmox 8.2.2
 
+Используется:
+
+- Debian 12 (Bookworm)
+- Kubeadm 
+- Cilium
+
 
 При проблемах с аутификацей
 ***
