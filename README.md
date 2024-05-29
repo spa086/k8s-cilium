@@ -1,5 +1,5 @@
 
-# Создаем кластер k8s в proxmox при помощи tofu
+# Создаем кластер k8s в proxmox при помощи OpenTofu
 1 мастер, 3 воркера
 
 OpenTofu v1.7.1,
