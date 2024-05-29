@@ -48,7 +48,7 @@ pveum aclmod / -user tofu@pve -role Tofu
 pveum user token add tofu@pve provider --privsep=0
 ```
 
-
+```
 ┌──────────────┬──────────────────────────────────────┐
 │ key          │ value                                │
 ╞══════════════╪══════════════════════════════════════╡
@@ -58,3 +58,4 @@ pveum user token add tofu@pve provider --privsep=0
 ├──────────────┼──────────────────────────────────────┤
 │ value        │ <token>                              │
 └──────────────┴──────────────────────────────────────┘
+```
